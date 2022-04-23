@@ -1,2 +1,2 @@
 # cartooondjango
-#cartoon filter djngo
+#cartoon filter django
